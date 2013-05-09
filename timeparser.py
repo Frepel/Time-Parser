@@ -6,7 +6,7 @@ global inputdata
 #time = 'default'
 inputdata = ''
 
-def theScript():
+def stringToTime():
 	askTime()
 
 
@@ -80,5 +80,5 @@ def printTime(inputdata):
 	sys.stdout.write("The time is %s:%s\n" % (inputdata[0], inputdata[1]))
 	
 #Main program
-theScript() 	
+stringToTime() 	
 
