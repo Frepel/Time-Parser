@@ -1,0 +1,13 @@
+The TimeParser
+==============
+
+
+This small script takes a time in the followin format hh:mm", "hh.mm", 
+"hh,mm" or "hh" and returns it as "hh:mm". If the hours or minutes are 
+inserted in incorrectly the script asks the user to reinsert the time or quit.
+
+1.Start the "applicatoin" by typing ./timeparser.py (remember to give it
+execution rights chmod +x timeparser.py)
+2.Insert the time
+3 Enjoy the correct output
+
